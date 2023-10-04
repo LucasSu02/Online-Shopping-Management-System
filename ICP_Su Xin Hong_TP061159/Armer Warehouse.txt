@@ -1,0 +1,15 @@
+ EngineSection	ES	EngineBlock	EB	65
+ EngineSection	ES	Piston	P	21
+ EngineSection	ES	Crankshaft	CS	85
+ EngineSection	ES	EngineValve	EV	1
+ EngineSection	ES	CylinderHead	CH	21
+ BodyWorkSection	BWS	BodyKits	BK	63
+ BodyWorkSection	BWS	BodyShell	BS	96
+ BodyWorkSection	BWS	BodyTrim	BT	58
+ BodyWorkSection	BWS	Bonnet	B	41
+ BodyWorkSection	BWS	FluidBottle	FB	36
+ Air-conSection	AS	Compressor	CP	52
+ Air-conSection	AS	Condenser	CD	14
+ Air-conSection	AS	Receiver	R	85
+ Air-conSection	AS	OrificeTube	OT	63
+ Air-conSection	AS	Evaporator	EP	21

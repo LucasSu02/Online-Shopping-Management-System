@@ -1,0 +1,5 @@
+﻿  Code.cpp
+C:\Users\User\Desktop\APU Study\Degree Year 1\Semester 2\Introduction to C Programming\Assignment\ICP_Su Xin Hong_TP061159\Code.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\Desktop\APU Study\Degree Year 1\Semester 2\Introduction to C Programming\Assignment\ICP_Su Xin Hong_TP061159\Code.cpp(157,12): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\User\Desktop\APU Study\Degree Year 1\Semester 2\Introduction to C Programming\Assignment\ICP_Su Xin Hong_TP061159\Code.cpp(63,21): warning C4101: 'partLeft': unreferenced local variable
+  ICP_Su Xin Hong_TP061159.vcxproj -> C:\Users\User\Desktop\APU Study\Degree Year 1\Semester 2\Introduction to C Programming\Assignment\ICP_Su Xin Hong_TP061159\x64\Debug\ICP_Su Xin Hong_TP061159.exe
